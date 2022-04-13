@@ -16,7 +16,7 @@
 
 | 날짜     | 문제 이름                                                    | 문제 폴더                    |
 | -------- | ------------------------------------------------------------ | ---------------------------- |
-| 22-04-13 | [17609 - 회문](https://www.acmicpc.net/problem/17609) <br/> [9046 - 복호화](https://www.acmicpc.net/problem/9046) <br/> [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [바로가기](./4월/4월 3째 주) |
+| 22-04-13 | [17609 - 회문](https://www.acmicpc.net/problem/17609) <br/> [9046 - 복호화](https://www.acmicpc.net/problem/9046) <br/> [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [바로가기](4월/4월%203째%20주/) |
 |          |                                                              |                              |
 |          |                                                              |                              |
 
