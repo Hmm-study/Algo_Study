@@ -9,6 +9,8 @@
   * 백준 문제는 **Main_문제이름__이름**
   * 프로그래머스는 **Solution_문제이름__이름** 
   * 해당하는 월 주자별 폴더에 업로드! 
+  * 매주 알고리즘 4개 
+  * CS 2개
 
 * **목표** :  멋지게 취뽀하는 그 날까지.. to be continued...
 
@@ -17,6 +19,6 @@
 | 날짜     | 문제 이름                                                    | 문제 폴더                    |
 | -------- | ------------------------------------------------------------ | ---------------------------- |
 | 22-04-13 | [17609 - 회문](https://www.acmicpc.net/problem/17609) <br/> [9046 - 복호화](https://www.acmicpc.net/problem/9046) <br/> [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [바로가기](4월/4월%203째%20주/) |
-|          |                                                              |                              |
+| 22-4-20  | [2636 - 치즈](https://www.acmicpc.net/problem/2636) <br/> [2636 - 파일 탐색기](https://www.acmicpc.net/problem/2636)<br/> [가장먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)  <br/> [카카오 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/49189)   |    |
 |          |                                                              |                              |
 
