@@ -25,7 +25,8 @@
 | 22-05-11 | [16236-아기상어](https://www.acmicpc.net/problem/16236)<br/>[19238-스타트택시](https://www.acmicpc.net/problem/19238)<br/>[5212-지구온난화](https://www.acmicpc.net/problem/5212)<br/>[9342-염색체](https://www.acmicpc.net/problem/9342)<br/>[1764-듣보잡](https://www.acmicpc.net/problem/1764)<br/> | [바로가기](5월/2주차/) |
 | 22-06-16 | [16171-나는친구가적다](https://www.acmicpc.net/problem/16171)<br/>[1316-그룹단어체커](https://www.acmicpc.net/problem/1316)<br/>[514916-거스름돈](https://www.acmicpc.net/problem/14916)<br/>[1343-폴리오미노](https://www.acmicpc.net/problem/1343)<br/>[11725-트리의부모찾기](https://www.acmicpc.net/problem/11725)<br/> | [바로가기](5월/3주차/) |
 | 22-06-22 | [1890-점프](https://www.acmicpc.net/problem/1890)<br/>[20058-마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)<br/>[1922-네트워크 연결](https://www.acmicpc.net/problem/1922)|[바로가기](6월/4주차/) |
-| 22-06-29 | [1942-디지털시계](https://www.acmicpc.net/problem/1942)<br/>[1181-단어 정렬](https://www.acmicpc.net/problem/1181)<br/>[1647-도기 분할 계획](https://www.acmicpc.net/problem/1647)<br/>[16398-행성 연결](https://www.acmicpc.net/problem/16398)|[바로가기](6월/5주차/) |
+| 22-06-29 | [1942-디지털시계](https://www.acmicpc.net/problem/1942)<br/>[1181-단어 정렬](https://www.acmicpc.net/problem/1181)<br/>[16398-행성 연결](https://www.acmicpc.net/problem/16398)|[바로가기](6월/5주차/) |
+| 22-07-06 | [4659-비밀번호 발음하기](https://www.acmicpc.net/problem/4659)<br/>[10798-세로읽기](https://www.acmicpc.net/problem/10798)<br/>[1647-도시 분할 계획](https://www.acmicpc.net/problem/1647)<br/>[21924-도시 건설](https://www.acmicpc.net/problem/21924)|[바로가기](7월/1주차/) |
 
 
 
