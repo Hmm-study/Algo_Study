@@ -30,6 +30,6 @@
 | 22-06-29 | [1942-디지털시계](https://www.acmicpc.net/problem/1942)<br/>[1181-단어 정렬](https://www.acmicpc.net/problem/1181)<br/>[16398-행성 연결](https://www.acmicpc.net/problem/16398)|[바로가기](6월/5주차/) |
 | 22-07-06 | [4659-비밀번호 발음하기](https://www.acmicpc.net/problem/4659)<br/>[10798-세로읽기](https://www.acmicpc.net/problem/10798)<br/>[1647-도시 분할 계획](https://www.acmicpc.net/problem/1647)<br/>[21924-도시 건설](https://www.acmicpc.net/problem/21924)|[바로가기](7월/1주차/) |
 | 22-07-13 | [1774-우주신과의 교감](https://www.acmicpc.net/problem/1774)<br/>[14503-로봇청소기](https://www.acmicpc.net/problem/14503)<br/>[1302-베스트셀러](https://www.acmicpc.net/problem/1302)<br/>[18312-시각](https://www.acmicpc.net/problem/18312)|[바로가기](7월/2주차/) |
-
+| 22-07-20 | [14621-나만 안되는 연애](https://www.acmicpc.net/problem/14621)<br/>[20055-컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)<br/>[1969-DNA](https://www.acmicpc.net/problem/1969)<br/>[20437-문자열 게임 2](https://www.acmicpc.net/problem/20437)|[바로가기](7월/3주차/) |
 
 
