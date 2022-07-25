@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 public class B20055_컨베이어벨트위의로봇 {
     static int N, K;
-    static LinkedList<backjoon.B20055_컨베이어벨트위의로봇.Pos> l;
+    static LinkedList<Pos> l;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -18,7 +18,7 @@ public class B20055_컨베이어벨트위의로봇 {
         l = new LinkedList<>();
         st = new StringTokenizer(br.readLine());
         for (int n = 0; n < 2 * N; n++) {
-            l.add(new backjoon.B20055_컨베이어벨트위의로봇.Pos(Integer.parseInt(st.nextToken()), false));
+            l.add(new Pos(Integer.parseInt(st.nextToken()), false));
         }
         System.out.println(simul());
     }
@@ -50,7 +50,7 @@ public class B20055_컨베이어벨트위의로봇 {
 
             // 내구도가 0인 칸을 센다
             int cnt = 0;
-            for (backjoon.B20055_컨베이어벨트위의로봇.Pos p : l) {
+            for (Pos p : l) {
                 if (p.a == 0)
                     cnt++;
                 if (cnt >= K)
