@@ -1,12 +1,10 @@
-package backjoon;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class B20055_컨베이어벨트위의로봇 {
+public class Main {
     static int N, K;
     static LinkedList<Pos> l;
 
@@ -25,7 +23,7 @@ public class B20055_컨베이어벨트위의로봇 {
 
     static int simul() {
         int step = 1;
-
+        int cnt = 0;
         while (true) {
             // 2*N 번째 칸이 1로 이동한다.
             l.addFirst(l.pollLast());
@@ -38,24 +36,26 @@ public class B20055_컨베이어벨트위의로봇 {
                 if (l.get(i).r && !l.get(i + 1).r && l.get(i + 1).a > 0) {
                     l.get(i).r = false;
                     l.get(i + 1).r = true;
-                    --l.get(i + 1).a;
+                    if (--l.get(i + 1).a == 0)
+                        cnt++;
                 }
             }
 
+            // N번째 칸의 로봇을 내린다.
+            l.get(N - 1).r = false;
+
             // 로봇을 올리 수 있으면 올린다
             if (l.get(0).a > 0) {
-                l.get(0).a--;
+                if (--l.get(0).a == 0)
+                    cnt++;
                 l.get(0).r = true;
             }
 
             // 내구도가 0인 칸을 센다
-            int cnt = 0;
-            for (Pos p : l) {
-                if (p.a == 0)
-                    cnt++;
-                if (cnt >= K)
-                    return step;
-            }
+
+            if (cnt >= K)
+                return step;
+
 
             // 스텝 증가
             step++;
